@@ -1,0 +1,6 @@
+{
+  "name": "MARS 2077 – Junior Astronaut Mission Trainer",
+  "description": "Interactive 3D space survival and outpost engineering simulation teaching resource management, NASA planetary science, and astronaut decision-making on Mars and the Moon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
